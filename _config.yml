@@ -2,8 +2,8 @@ title: My Website
 description: "Class of 2025"
 owner_name: Zaid Alrefai
 github_username: zaidalrefai1
-github_repo: "zaidalrefai_2025(true)" 
-baseurl: "/zaidalrefai_2025(true)"
+github_repo: "zaidalrefai_2025-true-" 
+baseurl: "/zaidalrefai_2025-true-"
 future: true
 remote_theme: jekyll/minima
 minima:
