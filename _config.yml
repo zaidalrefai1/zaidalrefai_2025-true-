@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: Zaid Alrefai
 github_username: zaidalrefai1
 github_repo: "zaidalrefai_2025(true)" 
-baseurl: "/student_2025"
+baseurl: "/zaidalrefai_2025(true)"
 future: true
 remote_theme: jekyll/minima
 minima:
