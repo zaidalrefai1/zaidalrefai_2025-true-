@@ -22,16 +22,6 @@ body {
 <h1 style="font-family:Agmena;">Welcome to My Website</h1>
     <hr width="100%" size="5">
  
-<h4 style="font-family:Agmena;"> I will be discussing my favorite games and games I am currently playing and giving my opinions on them.</h4>
-
-
-<h4 style="font-family:Agmena;"> If you want to learn more about the current game I am playing, Black Myth Wukong, click below.</h4>
-<br>
-<div class="floatright">
-<img align="right" 
-         src=
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslo0rYXg8r4u6D5BVrqytQtEZvKbN_Viutw&s" 
-         alt="BMWK Cover">
 
 
 <head>
@@ -56,15 +46,13 @@ body {
 </head>
 <body>
 
-<div class="vertical-center">
-<a href="https://blackmythwukong.fandom.com/wiki/Black_Myth:_Wukong_Wiki" class="button">Black Myth Wukong Wiki</a>
- </div>
+
 
 
 </body>
 <br>
 
-<h4 style="font-family:Agmena;"> If you want to learn more about Elden Ring and dive deeper into the game, click below</h4>
+
 <br>
 <head>
 <style>
@@ -86,19 +74,6 @@ body {
 
 </style>
 </head>
-<body>
-
-
-<a href="https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki" class="button">Elden Ring Wiki</a>
-
-
-</body>
-
-
- <img align="right" 
-         src=
-"https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg" 
-         alt="Elden Ring Cover">
 
 
 <head>
@@ -123,14 +98,9 @@ body {
 </head>
 <body>
 
-<div class="vertical-center">
-<a href="https://eldenring.wiki.fextralife.com/Interactive+Map" class="button">Elden Ring Map</a>
- </div>
 
 </body>
 
-<br>
-<h4 style="font-family:Agmena;">The wikis are excellent and were my main source for information on these games. They explain lore, show you where and how to get certain items, and where anything or anyone is located</h4>
 
 
 
